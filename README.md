@@ -1,1 +1,2 @@
 # Movie_Recommender_System
+Developed a movie recommendation system using collaborative filtering and content-based filtering techniques. Leveraged Python libraries such as Pandas, NumPy, and Scikit-learn for data preprocessing and model implementation. Utilized user-item interaction data and movie metadata to generate personalized recommendations. Evaluated model performance using metrics like RMSE and precision-recall. Gained hands-on experience in machine learning, data analysis, and building scalable recommendation engines.
